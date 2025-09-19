@@ -1,5 +1,5 @@
 # que_ustedes_quieran
-Actividades de semana tec con el prof omar, gracias prof, ice, frio, hielo
+Actividades de semana tec con el prof omar, gracias prof,                     ice, frio, hielo
 
 
 Cada carpeta contienen algortimo para entrenar neuronas con sistema de imagenes, tener una red neurnal, y claro, yendo de lo mas sencillo para que el programa detecte cada imagen hasta ya analizar los sentimientos de una carita feliz o triste.
